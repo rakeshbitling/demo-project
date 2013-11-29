@@ -1,6 +1,6 @@
 # this is the simplest ruby program
 
-puts "Hello world from Cloud9"
+puts "Hello world"
 
 # click the 'Run' button at the top to start this application
 
